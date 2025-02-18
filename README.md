@@ -28,12 +28,10 @@
 </p>
 
 ---
-
-<p align="center">
-  <span style="display: inline-block; vertical-align: middle; font-size: 24px; font-weight: bold;">📊 Meu portifólio</span>
-  <img src="https://github.com/user-attachments/assets/c4584001-f459-44f9-a92a-de61c6ea3027" width="200" style="display: inline-block; vertical-align: middle; position: relative; top: -20px;">
-</p>
-
+<div align="center">
+  <h2 style="display: inline-block; vertical-align: middle; margin: 0;">📊 Meu portifólio</h2>
+  <img src="https://github.com/user-attachments/assets/c4584001-f459-44f9-a92a-de61c6ea3027" width="200px" style="display: inline-block; vertical-align: middle; position: relative; top: -20px;">
+</div>
 
 
 
