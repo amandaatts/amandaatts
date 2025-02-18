@@ -4,7 +4,12 @@
 ![Banner](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/imagens/banner.png)
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amandaatts&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amandaatts&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false&order=2&custom_title=Linguagens%20mais%20usadas" height="150" alt="languages graph"  />
+</div>
 
+###
 ## 🛠️ Tecnologias que estou aprendendo  
 <div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
