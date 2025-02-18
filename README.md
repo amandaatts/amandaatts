@@ -1,4 +1,4 @@
-![Banner]((https://github.com/user-attachments/assets/b77c927e-e534-4759-837e-bdc630b25b62)
+![Banner](https://github.com/user-attachments/assets/b77c927e-e534-4759-837e-bdc630b25b62)
 
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?size=24&color=722F37&center=false&vCenter=true&lines=Hello,+world!+;Eu+sou+a+Amanda!+)
