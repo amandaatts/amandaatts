@@ -1,5 +1,5 @@
 # 💖 
-<p align="left">
+<p align="center">
     <img src="https://github.com/user-attachments/assets/e6335e6d-6062-474c-a7cb-61e06db15187" width="150" />
 </p>
 
