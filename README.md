@@ -58,4 +58,4 @@
 
 ---
 
-💖 *Feito com muito carinho! Espero que goste!* 🎀✨
+💖 *Desafios superados, inovações entregues.* 🎀✨
