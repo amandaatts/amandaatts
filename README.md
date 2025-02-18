@@ -34,7 +34,8 @@
 <a align="left">
   <p>
     🚀 Aqui está um pouco do meu trabalho!  
-    -- Projetos desenvolvidos com **HTML, CSS, JavaScript e Java**  
+    <br>
+    Projetos desenvolvidos com **HTML, CSS, JavaScript e Java**  
    
   </p>
 </a>
