@@ -11,10 +11,10 @@
 
 
 
-
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://github.com/user-attachments/assets/e6335e6d-6062-474c-a7cb-61e06db15187" width="150px" style="margin-right: 15px;">
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/user-attachments/assets/e6335e6d-6062-474c-a7cb-61e06db15187" width="150px">
 </div>
+
 
 
 
