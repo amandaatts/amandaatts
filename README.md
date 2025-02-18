@@ -55,4 +55,4 @@
 ---
  ![snake gif](https://github.com/amandaatts/amandaatts/blob/output/github-contribution-grid-snake.gif)
 
-💖 *Desafios superados, inovações entregues.* 🎀✨
+
