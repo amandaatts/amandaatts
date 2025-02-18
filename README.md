@@ -31,19 +31,11 @@
 
 ## 📊 Meu portfólio  
 
-<a align="left">
-  <p>
-    🚀 Aqui está um pouco do meu trabalho!  
-    <br>
-    Projetos desenvolvidos com **HTML, CSS, JavaScript e Java**  
-   
-  </p>
-</a>
-<a>
-  <img align="right" src="https://github.com/user-attachments/assets/c4584001-f459-44f9-a92a-de61c6ea3027" width="200px">
-</a>
+## 📊 Meu portifólio 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/c4584001-f459-44f9-a92a-de61c6ea3027" width="200px" style="position: relative; top: -20px;">
+</p>
 
-<br clear="both"/>
 
 
 
