@@ -39,7 +39,6 @@
    
   </p>
 </a>
-
 <a>
   <img align="right" src="https://github.com/user-attachments/assets/c4584001-f459-44f9-a92a-de61c6ea3027" width="200px">
 </a>
