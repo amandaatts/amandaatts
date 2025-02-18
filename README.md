@@ -29,7 +29,10 @@
 ---
 
 ## 📊 Meu portifólio 
-![Image](https://github.com/user-attachments/assets/c4584001-f459-44f9-a92a-de61c6ea3027)
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/c4584001-f459-44f9-a92a-de61c6ea3027" width="200px">
+</p>
+
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula"/>
