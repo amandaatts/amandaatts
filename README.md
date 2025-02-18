@@ -29,10 +29,22 @@
 
 ---
 
-## 📊 Meu portifólio 
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/c4584001-f459-44f9-a92a-de61c6ea3027" width="200px">
-</p>
+## 📊 Meu portfólio  
+
+<a align="left">
+  <p>
+    🚀 Aqui está um pouco do meu trabalho!  
+    🔹 Projetos desenvolvidos com **HTML, CSS, JavaScript e Java**  
+    🔹 Sempre aprimorando minhas habilidades e aprendendo novas tecnologias  
+  </p>
+</a>
+
+<a>
+  <img align="right" src="https://github.com/user-attachments/assets/c4584001-f459-44f9-a92a-de61c6ea3027" width="200px">
+</a>
+
+<br clear="both"/>
+
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula"/>
