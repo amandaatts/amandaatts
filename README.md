@@ -1,16 +1,29 @@
-## Hi there 👋
+    <header>
+        <h1>🌸 Meu Portfólio 🌸</h1>
+    </header>
+    
+    <section id="sobre">
+        <img src="coloque-o-link-da-imagem-aqui" alt="Minha Foto" class="perfil">
+        <h2>✨ Sobre Mim</h2>
+        <p>Olá! Meu nome é [Seu Nome] e sou aluna do SESI SENAI, apaixonada por desenvolvimento!</p>
+        <p>Atualmente, estou aprendendo HTML, CSS, JavaScript e Java.</p>
+    </section>
 
-<!--
-**amandaatts/amandaatts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <section id="projetos">
+        <h2>🚀 Meus Projetos</h2>
+        <div class="projeto">
+            <img src="coloque-o-link-do-gif-aqui" alt="Projeto 1">
+            <p>Descrição do projeto 1</p>
+        </div>
+        <div class="projeto">
+            <img src="coloque-o-link-da-imagem-aqui" alt="Projeto 2">
+            <p>Descrição do projeto 2</p>
+        </div>
+    </section>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <section id="contato">
+        <h2>💌 Contato</h2>
+        <p>📧 Email: <a href="mailto:seu-email@gmail.com">seu-email@gmail.com</a></p>
+        <p>🐙 GitHub: <a href="https://github.com/seu-usuario">seu-usuario</a></p>
+        <p>💼 LinkedIn: <a href="https://www.linkedin.com/in/seu-usuario/">seu-usuario</a></p>
+    </section>
