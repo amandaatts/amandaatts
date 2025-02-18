@@ -46,10 +46,6 @@
 <br clear="both"/>
 
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=dracula"/>
-</div>
 
 ---
 
