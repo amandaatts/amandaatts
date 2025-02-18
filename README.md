@@ -1,4 +1,4 @@
-# 💖 Oi, eu sou [Seu Nome]!  
+# 💖 
 🌸 Aluna do **SESI SENAI**, aprendendo **HTML, CSS, JavaScript e Java**! 🚀  
 
 ![Banner](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/imagens/banner.png)
@@ -23,8 +23,6 @@
 
 ---
 
-## 🐍 A cobrinha comendo meus commits!  
-![snake gif](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
