@@ -4,9 +4,10 @@
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=whitw&size=25&center=true&vCenter=true&width=600&height=100&lines=Aluna+do+SESI-SENAI;+Desenvolvimento+de+Sistemas+🤍">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=800020&size=25&center=true&vCenter=true&width=600&height=100&lines=Aluna+do+SESI-SENAI+Desenvolvimento+de+Sistemas+🤍">
   </a>
 </p>
+
 
 
 
