@@ -32,10 +32,6 @@
   <h2 style="display: inline-block; vertical-align: middle; margin: 0;">📊 Meu portifólio</h2>
   <img src="https://github.com/user-attachments/assets/c4584001-f459-44f9-a92a-de61c6ea3027" width="200px" style="display: inline-block; vertical-align: middle; position: relative; top: -20px;">
 </div>
-<div align="center">
-  <h2 style="display: inline-block; vertical-align: middle; margin: 0;">📊 Meu portifólio</h2>
-  <img src="https://github.com/user-attachments/assets/c4584001-f459-44f9-a92a-de61c6ea3027" width="200px" style="display: inline-block; vertical-align: middle; position: relative; top: -20px;">
-</div>
 
 
 * [Repositório 1](https://github.com/amandaatts/repositorio1)
