@@ -1,5 +1,4 @@
 <h1 align="center"><b>Hello World, Eu sou a Amanda! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -54,5 +53,6 @@
 </p>
 
 ---
+ ![snake gif](https://github.com/amandaatts/amandaatts/blob/output/github-contribution-grid-snake.gif)
 
 💖 *Desafios superados, inovações entregues.* 🎀✨
