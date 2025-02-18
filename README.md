@@ -1,4 +1,5 @@
 # 💖 
+![Image](https://github.com/user-attachments/assets/e6335e6d-6062-474c-a7cb-61e06db15187)
 🌸 Aluna do **SESI SENAI**, aprendendo **HTML, CSS, JavaScript e Java**! 🚀  
 
 ![Banner](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/imagens/banner.png)
