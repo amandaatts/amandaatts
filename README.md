@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><b>Hello World, eu sou a Amanda! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello World, eu sou a Amanda!</h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<!-- ✅ Imagem centralizada corretamente -->
+
 <p align="center">
     <img src="https://github.com/user-attachments/assets/e6335e6d-6062-474c-a7cb-61e06db15187" width="150px">
 </p>
