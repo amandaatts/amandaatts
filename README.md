@@ -35,8 +35,8 @@
 </div>
 
 
-* [Repositório 1](https://github.com/amandaatts/repositorio1)
-* [Repositório 2](https://github.com/amandaatts/repositorio2)
+* [BeautyBoard💋](https://github.com/amandaatts/BeautyBoard.git)
+* [GatoSwipe💜😺](https://github.com/amandaatts/GatoSwipe.git)
 * [Repositório 3](https://github.com/amandaatts/repositorio3)
 
 
